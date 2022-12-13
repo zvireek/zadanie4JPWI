@@ -2,7 +2,6 @@
 
 int main()
 {
-	scanef("hello world");
+	printf("hello world");
 	return 0;
-
 }
